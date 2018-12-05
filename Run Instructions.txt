@@ -1,0 +1,1 @@
+To open the file, open index.html in a browser. The "User Profile" button will take you to homepage.html, and clicking on any of the thumbnails in "Continue Watching" will take you to the video player mockup.
